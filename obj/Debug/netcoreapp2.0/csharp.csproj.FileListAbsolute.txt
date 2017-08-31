@@ -1,0 +1,10 @@
+/Users/Rayn/Desktop/git/csharp/obj/Debug/netcoreapp2.0/csharp.csproj.CoreCompileInputs.cache
+/Users/Rayn/Desktop/git/csharp/obj/Debug/netcoreapp2.0/csharp.AssemblyInfoInputs.cache
+/Users/Rayn/Desktop/git/csharp/obj/Debug/netcoreapp2.0/csharp.AssemblyInfo.cs
+/Users/Rayn/Desktop/git/csharp/bin/Debug/netcoreapp2.0/csharp.deps.json
+/Users/Rayn/Desktop/git/csharp/bin/Debug/netcoreapp2.0/csharp.runtimeconfig.json
+/Users/Rayn/Desktop/git/csharp/bin/Debug/netcoreapp2.0/csharp.runtimeconfig.dev.json
+/Users/Rayn/Desktop/git/csharp/bin/Debug/netcoreapp2.0/csharp.dll
+/Users/Rayn/Desktop/git/csharp/bin/Debug/netcoreapp2.0/csharp.pdb
+/Users/Rayn/Desktop/git/csharp/obj/Debug/netcoreapp2.0/csharp.dll
+/Users/Rayn/Desktop/git/csharp/obj/Debug/netcoreapp2.0/csharp.pdb
